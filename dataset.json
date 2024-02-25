@@ -1,0 +1,396 @@
+[{
+"input": "The Renaissance period marked a significant cultural and artistic revival in Europe, characterized by a renewed interest in classical learning and humanism. Artists like Leonardo da Vinci and Michelangelo made groundbreaking contributions to art, while thinkers such as Galileo Galilei challenged traditional beliefs.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Industrial Revolution, which began in the late 18th century, brought about significant economic and social changes. Innovations in machinery and manufacturing processes led to urbanization and the rise of factories. This period also witnessed the emergence of capitalism and the modern working class.",
+"labels": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The French Revolution, spanning from 1789 to 1799, was a period of profound political and social upheaval in France. It marked the end of monarchy and feudalism, leading to the rise of democracy and nationalism. The revolution also had significant repercussions across Europe and influenced subsequent revolutions.",
+"labels": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "World War II, one of the deadliest conflicts in human history, lasted from 1939 to 1945. It involved many nations and was characterized by significant technological advancements in warfare. The war had profound global impacts, leading to the reshaping of geopolitical alliances and the founding of the United Nations.",
+"labels": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Cold War, a period of geopolitical tension between the Soviet Union and the United States, lasted from the late 1940s to the early 1990s. It was characterized by ideological, political, and military rivalry, as well as proxy wars fought in various regions around the world.",
+"labels": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The ancient civilization of Mesopotamia, located in the region of present-day Iraq, was one of the earliest cradles of human civilization. It is known for its contributions to the development of writing, agriculture, and complex societies. Mesopotamia was home to iconic civilizations such as Sumer, Babylon, and Assyria.",
+"labels": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Byzantine Empire, also known as the Eastern Roman Empire, was a continuation of the Roman Empire in the eastern Mediterranean region. It lasted for over a thousand years, from the 4th century AD to the 15th century AD, and played a crucial role in preserving and transmitting classical knowledge and culture.",
+"labels": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The ancient Egyptian civilization, which emerged along the Nile River around 3100 BCE, is renowned for its monumental architecture, such as the pyramids and temples, as well as its advancements in mathematics, medicine, and literature. It lasted for over three millennia, leaving a lasting legacy on world history.",
+"labels": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Silk Road was a network of trade routes connecting the East and West, facilitating cultural exchange and economic interactions between civilizations. It played a significant role in the spread of ideas, religions, technologies, and goods across Eurasia during ancient and medieval times.",
+"labels": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Age of Exploration, spanning from the 15th to the 17th centuries, was a period of intense maritime exploration and discovery. European powers such as Portugal, Spain, and England embarked on voyages to find new trade routes and territories, leading to encounters with diverse cultures and the establishment of colonial empires.",
+"labels": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Protestant Reformation, initiated by Martin Luther in 1517, was a religious and social movement that challenged the authority of the Catholic Church. It led to the establishment of various Protestant denominations and sparked religious conflicts across Europe, profoundly reshaping the religious landscape.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The fall of the Roman Empire in 476 AD marked the end of classical antiquity and the beginning of the Middle Ages in Europe. It resulted from a combination of internal weaknesses, external invasions, and socioeconomic factors, leading to the fragmentation of political authority and the decline of urban centers.",
+"labels": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The American Revolution, which began in 1775 and culminated in independence from British rule in 1783, was a pivotal event in world history. It established the United States as a sovereign nation and inspired movements for liberty and democracy worldwide, profoundly impacting the course of modern history.",
+"labels": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Age of Enlightenment, spanning the 17th and 18th centuries, was a cultural and intellectual movement that emphasized reason, science, and individual rights. It challenged traditional authority and beliefs, laying the groundwork for modern political and philosophical thought and influencing revolutions and reforms worldwide.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Russian Revolution of 1917 was a pair of revolutions in Russia, which dismantled the Tsarist autocracy and led to the rise of the Soviet Union. It was characterized by political upheaval, social unrest, and the Bolshevik seizure of power, marking the beginning of communist rule in Russia.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Black Death, also known as the Bubonic Plague, was one of the deadliest pandemics in human history. It ravaged Europe, Asia, and Africa in the 14th century, causing widespread death and societal upheaval. The plague had profound economic, social, and cultural impacts, reshaping medieval society.",
+"labels": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Meiji Restoration in Japan, which began in 1868, marked the end of the feudal era and the beginning of modernization and industrialization. It led to significant political, social, and economic reforms, transforming Japan into a modern nation-state and setting the stage for its emergence as a global power.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Treaty of Versailles, signed in 1919, formally ended World War I and imposed harsh penalties on Germany. It redrew the map of Europe, created new nations, and laid the groundwork for World War II. The treaty remains controversial, as some argue it contributed to the rise of fascism and the Second World War.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Spanish Conquest of the Americas in the 16th century led to the colonization and exploitation of indigenous peoples and resources. It resulted in the establishment of vast empires, such as the Spanish Empire, and had profound consequences for the cultures and societies of both the Old and New Worlds.",
+"labels": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Age of Colonization, beginning in the 15th century, saw European powers establish colonies and trade networks across the globe. It led to the exploitation of resources, forced labor, and cultural exchange between Europe, Africa, Asia, and the Americas, shaping the modern world and fueling global interconnectedness.",
+"labels": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Silk Road, spanning from China to the Mediterranean, facilitated trade and cultural exchange between East and West. It played a vital role in the spread of goods, ideas, and religions, including Buddhism, Islam, and Christianity, shaping the development of civilizations along its routes.",
+"labels": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Age of Absolutism, prevalent in Europe from the 16th to the 18th centuries, saw monarchs consolidate power and assert absolute control over their realms. Figures like Louis XIV of France and Peter the Great of Russia implemented centralized authority, leading to significant political and social transformations.",
+"labels": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Berlin Conference of 1884-1885, convened by European powers, divided Africa among colonial empires. It established boundaries and rules for colonization, leading to the exploitation of African resources and the imposition of colonial rule, which had lasting social, economic, and political repercussions.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Treaty of Westphalia in 1648 marked the end of the Thirty Years' War in Europe and established the principles of modern diplomacy. It introduced the concept of state sovereignty and laid the groundwork for the nation-state system, shaping the political landscape of Europe and beyond.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Great Depression, beginning in 1929, was the most severe economic downturn in modern history. It originated in the United States and quickly spread globally, leading to widespread unemployment, poverty, and social unrest. The Great Depression had far-reaching economic and political consequences, shaping the course of the 20th century.",
+"labels": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Space Race, spanning from the late 1950s to the early 1970s, was a competition between the United States and the Soviet Union for supremacy in space exploration. It led to significant advancements in science and technology, including the first manned moon landing in 1969, and had profound political and ideological implications.",
+"labels": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The French Revolution, which began in 1789, was a period of radical social and political upheaval in France. It overthrew the monarchy, established a republic, and saw the rise of ideologies such as liberalism and nationalism. The revolution had far-reaching consequences, inspiring similar movements across Europe and beyond.",
+"labels": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Renaissance, flourishing in Europe from the 14th to the 17th centuries, was a period of renewed interest in art, literature, and humanism. It marked the transition from the medieval to the modern era and saw advancements in various fields, including science, exploration, and the arts, profoundly influencing European culture and society.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Age of Exploration, spanning from the 15th to the 17th centuries, was a period of maritime exploration and colonization. European powers such as Portugal, Spain, and England sought new trade routes to Asia and the Americas, leading to encounters with indigenous peoples and the establishment of colonial empires.",
+"labels": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Industrial Revolution, beginning in the 18th century, was a period of significant technological, economic, and social change. It transformed manufacturing processes, led to urbanization and industrialization, and had profound effects on society, including the rise of capitalism, urban poverty, and labor movements.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Magna Carta, signed in 1215, was a landmark document in English legal history. It limited the powers of the monarchy and established certain legal rights for nobles, laying the foundation for constitutional government and the rule of law.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Opium Wars, fought between China and Britain in the 19th century, were a series of conflicts over trade and diplomatic relations. They resulted in British control over Hong Kong and the opening of Chinese ports to foreign trade, marking a significant turning point in China's relations with the West.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Cultural Revolution in China, initiated by Mao Zedong in 1966, was a socio-political movement aimed at preserving communist ideology. It led to widespread violence, persecution, and the destruction of cultural artifacts, profoundly impacting Chinese society and politics for decades.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Industrial Revolution, beginning in the 18th century, transformed society with new inventions and advancements in industry, agriculture, and transportation. It led to urbanization, changed social structures, and had profound effects on the global economy, setting the stage for modern industrialized societies.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Crusades, a series of religious wars sanctioned by the Latin Church in the medieval period, aimed to recapture Jerusalem and the Holy Land from Muslim control. They had profound cultural, economic, and social impacts on Europe, the Middle East, and beyond, shaping relations between Christianity and Islam.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Reconquista, a period of several centuries in the Middle Ages, was a series of campaigns by Christian kingdoms to recapture the Iberian Peninsula from Islamic rule. It led to the establishment of Christian kingdoms in Spain and Portugal, shaping the history and culture of the region.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Renaissance, a cultural and intellectual movement in Europe from the 14th to the 17th centuries, marked a period of revival in art, literature, and learning. It led to advancements in science, exploration, and philosophy, shaping the transition from the medieval to the modern era.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Cold War, spanning from the mid-20th century to the early 1990s, was a period of geopolitical tension between the United States and the Soviet Union and their respective allies. It shaped international relations, military alliances, and global politics, defining much of the post-World War II era.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Fall of Constantinople in 1453, marking the end of the Byzantine Empire, was a pivotal event in history. It led to the rise of the Ottoman Empire and the spread of Islam into Europe, reshaping the geopolitical landscape of the Mediterranean and the wider world.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Indus Valley Civilization, one of the world's oldest urban civilizations, flourished around 2600-1900 BCE in the Indian subcontinent. It was characterized by sophisticated urban planning, advanced drainage systems, and trade networks, indicating a high level of social organization and cultural development.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Maurya Empire, founded by Chandragupta Maurya in the 4th century BCE, was one of the largest and most powerful empires in ancient India. It established centralized administration, including the first emperor Ashoka, known for his conversion to Buddhism and promotion of peace and non-violence.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Mughal Empire, established in the 16th century by Babur, was a powerful dynasty that ruled over the Indian subcontinent for more than three centuries. It was known for its cultural, architectural, and artistic achievements, including the construction of the Taj Mahal and the promotion of Persian and Indian arts.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Gupta Empire, often referred to as the Golden Age of India, flourished from the 4th to the 6th century CE. It was a period of remarkable advancements in art, science, mathematics, and literature, with notable contributions in fields such as metallurgy, astronomy, and Sanskrit literature.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Harappan Civilization, also known as the Indus Valley Civilization, was one of the world's earliest urban civilizations, thriving around 2600-1900 BCE in what is now Pakistan and northwest India. It had advanced urban planning, a sophisticated drainage system, and traded with ancient Mesopotamia.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Indian Independence Movement, spanning from the late 19th century to 1947, was a series of efforts aimed at ending British colonial rule in India. It involved various strategies, including nonviolent resistance led by Mahatma Gandhi and civil disobedience campaigns, ultimately leading to India's independence.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Battle of Plassey in 1757 was a significant event in Indian history, marking the beginning of British colonial rule in the subcontinent. The victory of the British East India Company over the Nawab of Bengal established British dominance in India and paved the way for further expansion of British influence.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Partition of India in 1947, following the end of British colonial rule, led to the creation of two independent nations: India and Pakistan. It resulted in massive communal violence, displacement, and loss of life, shaping the political and social landscape of the Indian subcontinent.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Vijayanagara Empire, founded in the 14th century by Harihara I and Bukka Raya I, was a South Indian empire known for its cultural richness and military prowess. It promoted Hinduism, patronized arts and architecture, and resisted Islamic invasions, leaving a lasting impact on the history of the region.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Delhi Sultanate, established in the 13th century by Qutb al-Din Aibak, was a Muslim kingdom that ruled over Delhi and parts of northern India. It introduced Persianate culture, Islamic architecture, and administrative reforms, shaping the socio-political landscape of the Indian subcontinent.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Quit India Movement, launched by Mahatma Gandhi in 1942, was a mass civil disobedience campaign demanding an end to British colonial rule in India. It led to widespread protests, arrests, and the emergence of leaders like Jawaharlal Nehru and Sardar Patel, contributing to India's eventual independence.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Partition of India in 1947, following the end of British colonial rule, led to the creation of two independent nations: India and Pakistan. It resulted in massive communal violence, displacement, and loss of life, shaping the political and social landscape of the Indian subcontinent.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Indian Independence Act of 1947 was passed by the British Parliament, granting independence to British India and creating the two independent dominions of India and Pakistan. It marked the culmination of India's struggle for independence and the end of British colonial rule in the subcontinent.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Round Table Conferences, held in London between 1930 and 1932, were a series of discussions between British authorities and Indian leaders to discuss constitutional reforms and India's future political structure. They highlighted differing views between Indian political parties and failed to produce a consensus on India's future governance.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Salt March, led by Mahatma Gandhi in 1930, was a nonviolent protest against the British salt monopoly in colonial India. It was a significant event in the Indian independence movement, galvanizing public support and highlighting the power of nonviolent resistance as a tool for social and political change.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Jallianwala Bagh massacre, which took place in Amritsar in 1919, was a turning point in India's struggle for independence. British troops fired on a crowd of unarmed Indian protesters, resulting in hundreds of deaths and sparking outrage across India, leading to increased support for the independence movement.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Rowlatt Act, passed by the British colonial government in 1919, was a repressive law aimed at curbing civil liberties in India. It allowed for indefinite detention without trial and limited freedom of speech and assembly, leading to widespread protests and contributing to the momentum of the Indian independence movement.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Ghadar Movement, initiated by Indian immigrants in the United States in the early 20th century, aimed at overthrowing British colonial rule in India. It involved armed uprisings, propaganda, and support for revolutionary activities, playing a significant role in the Indian independence movement.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Simon Commission, appointed by the British government in 1927 to review the functioning of the constitutional system in India, faced opposition from Indian political parties for its all-British composition. Its recommendations failed to satisfy Indian aspirations for self-governance, leading to widespread protests and demands for greater Indian representation.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Non-Cooperation Movement, launched by Mahatma Gandhi in 1920, was a mass protest against British colonial rule in India. It aimed at nonviolent resistance, boycott of British goods, and non-cooperation with British institutions, showcasing the power of civil disobedience as a tool for political change.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Maurya Empire, founded by Chandragupta Maurya in the 4th century BCE, was one of the largest and most powerful empires in ancient India. It established centralized administration, including the first emperor Ashoka, known for his conversion to Buddhism and promotion of peace and non-violence.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Gupta Empire, often referred to as the Golden Age of India, flourished from the 4th to the 6th century CE. It was a period of remarkable advancements in art, science, mathematics, and literature, with notable contributions in fields such as metallurgy, astronomy, and Sanskrit literature.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Harappan Civilization, also known as the Indus Valley Civilization, was one of the world's earliest urban civilizations, thriving around 2600-1900 BCE in what is now Pakistan and northwest India. It had advanced urban planning, a sophisticated drainage system, and traded with ancient Mesopotamia.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Vedic Period in ancient India, spanning from around 1500 BCE to 500 BCE, was characterized by the composition of the Vedas, the oldest sacred texts of Hinduism, and the emergence of early Vedic society and culture. It laid the foundation for key religious and philosophical developments in Indian history.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Chola Dynasty, one of the longest-ruling dynasties in the history of southern India, flourished from the 9th to the 13th century CE. It was known for its maritime trade, vibrant culture, temple architecture, and administrative innovations, leaving a lasting impact on South Indian history and culture.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Gupta Empire, often referred to as the Golden Age of India, flourished from the 4th to the 6th century CE. It was a period of remarkable advancements in art, science, mathematics, and literature, with notable contributions in fields such as metallurgy, astronomy, and Sanskrit literature.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Maurya Empire, founded by Chandragupta Maurya in the 4th century BCE, was one of the largest and most powerful empires in ancient India. It established centralized administration, including the first emperor Ashoka, known for his conversion to Buddhism and promotion of peace and non-violence.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Indus Valley Civilization, one of the world's oldest urban civilizations, thrived around 2600-1900 BCE in the Indian subcontinent. It was characterized by advanced urban planning, trade, and a system of writing, showcasing the sophistication of ancient Indian society and its contribution to human civilization.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Gupta Empire, often referred to as the Golden Age of India, flourished from the 4th to the 6th century CE. It was a period of remarkable advancements in art, science, mathematics, and literature, with notable contributions in fields such as metallurgy, astronomy, and Sanskrit literature.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Chola Dynasty, one of the longest-ruling dynasties in the history of southern India, flourished from the 9th to the 13th century CE. It was known for its maritime trade, vibrant culture, temple architecture, and administrative innovations, leaving a lasting impact on South Indian history and culture.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Allied invasion of Normandy, commonly known as D-Day, took place on June 6, 1944. It was the largest seaborne invasion in history and marked the beginning of the liberation of German-occupied France during World War II. The operation involved over 150,000 Allied troops landing on the beaches of Normandy.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Battle of Stalingrad, fought between August 1942 and February 1943, was one of the largest and deadliest battles in history. It marked a turning point in World War II, with the Soviet Union defeating Nazi Germany's forces, leading to the eventual retreat of German forces from the Eastern Front.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The bombing of Pearl Harbor on December 7, 1941, by the Imperial Japanese Navy marked the entry of the United States into World War II. The surprise attack resulted in significant damage to the US Pacific Fleet and led to the US declaring war on Japan the following day, thus changing the course of the war.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Holocaust, perpetrated by Nazi Germany during World War II, resulted in the systematic genocide of six million Jews, along with millions of other victims, including Romani people, Poles, Soviet prisoners of war, disabled individuals, and others. It remains one of the darkest chapters in human history.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Battle of Britain, fought between July and October 1940, was a major air campaign during World War II. It was the first military campaign in history to be fought entirely by air forces and aimed at achieving air superiority over Britain. The successful defense by the Royal Air Force against the Luftwaffe marked a crucial turning point in the war.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Battle of Midway, fought from June 4-7, 1942, was a decisive naval battle between the United States and Japan during World War II. It resulted in a significant victory for the US Navy, crippling the Japanese fleet and shifting the balance of power in the Pacific theater of the war in favor of the Allies.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Manhattan Project, initiated during World War II, was a research and development project that produced the first nuclear weapons. It was undertaken by the United States, the United Kingdom, and Canada, and led to the bombings of Hiroshima and Nagasaki in August 1945, ultimately bringing an end to the war.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Battle of the Bulge, also known as the Ardennes Counteroffensive, was a major German offensive campaign launched through the densely forested Ardennes region of Wallonia in Belgium, France, and Luxembourg during World War II. It was the largest and bloodiest single battle fought by the United States during the war.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Tehran Conference, held from November 28 to December 1, 1943, was a meeting between the leaders of the United States, the Soviet Union, and the United Kingdom to discuss military strategy and post-war Europe during World War II. It laid the groundwork for future cooperation among the Allied powers.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+},
+{
+"input": "The Battle of Okinawa, fought from April to June 1945, was one of the bloodiest battles of the Pacific campaign of World War II. It resulted in significant casualties on both the Allied and Japanese sides, and its strategic importance paved the way for the eventual Allied invasion of Japan.",
+"labels": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"subject": "History"
+}
+]
