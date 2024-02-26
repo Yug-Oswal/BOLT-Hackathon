@@ -1,5 +1,5 @@
 # BOLT-Hackathon: Intel Track
-Find Rekindle at: intel.aryanbharti.com
+Find Rekindle at: https://intel.aryanbharti.com    
 A repository containing my team's projects and solutions under the BOLT Hackathon under the Intel track.
 
 ## Our Project - Rekindle 
