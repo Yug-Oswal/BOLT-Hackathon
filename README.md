@@ -69,7 +69,7 @@ model = tf.keras.Model(inputs=input, outputs=output)
 1. We evaluated 3 models: Custom Model, BERT Fine-tuned/Retrained, DistilBERT Fine-tuned/Retrained
 2. The BERT model was used from a Google tutorial for the dataset and used as our benchmark. Our DistilBERT model achieved approx 80% train and 60% test accuracy. However, the accuracy cannot directly be interpreted as the precision of the model due to the following reason:
 3. The emotions dataset consisted of 28 emotions anad sometimes there can be an overlap between 2 emotions:
-4. Eg. I feel down because of a death. True Label: Sadness, Predicted Label: grief
+4. Eg. I feel down because of a death. True Label: Sadness, Predicted Label: Grief
 5. Thus, a 60% test accuracy does not mean that the model is inaccurate 40% of the times. The model proves to be relatively accurate considering the context of the text a significantly higher number of times than what is shown via the test accuracy.
 6. Thus, to evaluate model performance, we compare it against the Google BERT model benchmark in different test cases.
    
