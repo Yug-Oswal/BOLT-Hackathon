@@ -80,3 +80,4 @@ model = tf.keras.Model(inputs=input, outputs=output)
 
 ## Resources: 
 1. Google Go-Emotions Dataset: https://blog.research.google/2021/10/goemotions-dataset-for-fine-grained.html - 210,000 texts from Reddit threads, Corpus of 58k words, 27 emotion categories + 1 neutral category
+2. Google Go-Emotions BERT Benchmark: https://responsible-ai-developers.googleblog.com/2022/11/goemotions-dataset-training-classifier.html
