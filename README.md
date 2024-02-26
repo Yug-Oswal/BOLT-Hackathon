@@ -1,9 +1,15 @@
 # BOLT-Hackathon: Intel Track
 Find Rekindle at: https://intel.aryanbharti.com    
-A repository containing my team's projects and solutions under the BOLT Hackathon under the Intel track.
+A repository containing my team 4lie's Angels' projects and solutions under the BOLT Hackathon under the Intel track.
 
 ## Our Project - Rekindle 
 <img src="https://i.imgur.com/An2OprO.jpeg">
+
+## About Rekindle
+We help people with Alzheimer’s and Dementia preserve their precious memories in a life journal. They can write about their daily experiences and express their emotions, and we will provide them with support and comfort. Their life journal will be a treasure trove of stories that they can search and revisit anytime, based on their mood or memory. They can relive their happy moments and cope with their challenges, with the life journal as their faithful companion throughout their journey.
+
+## Problem Statement
+Emotion-based prompting: Train models to respond to prompts based on specific emotions. Imagine prompting with "Write a letter to your lost love, filled with longing and regret." This could lead to more emotionally resonant and engaging outputs
 
 ## Related Repositories
 1. Frontend: https://github.com/manaslaud/intel-hack
