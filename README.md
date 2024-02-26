@@ -1,5 +1,13 @@
-# BOLT-Hackathon
-A repository containing my team's Machine Learning solutions and projects for the BOLT Hackathon. 
+# BOLT-Hackathon: Intel Track
+A repository containing my team's projects and solutions under the BOLT Hackathon under the Intel track.
+
+## Related Repositories
+1. Frontend: https://github.com/manaslaud/intel-hack
+2. Backend: https://github.com/woaitsAryan/rekindle-backend
+3. Machine Learning: https://github.com/Yug-Oswal/BOLT-Hackathon/
+
+## Our Project - Rekindle 
+<img src="https://i.imgur.com/An2OprO.jpeg".
 
 ## Models Trained/Fine-tuned/Utilised: 
 1. Gemma 2B served and run via Ollama
