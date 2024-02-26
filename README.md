@@ -1,5 +1,20 @@
-# BOLT-Hackathon
-A repository containing my team's Machine Learning solutions and projects for the BOLT Hackathon. 
+# BOLT-Hackathon: Intel Track
+Find Rekindle at: https://intel.aryanbharti.com    
+A repository containing my team 4lie's Angels' projects and solutions under the BOLT Hackathon under the Intel track.
+
+## Our Project - Rekindle 
+<img src="https://i.imgur.com/An2OprO.jpeg">
+
+## About Rekindle
+We help people with Alzheimer’s and Dementia preserve their precious memories in a life journal. They can write about their daily experiences and express their emotions, and we will provide them with support and comfort. Their life journal will be a treasure trove of stories that they can search and revisit anytime, based on their mood or memory. They can relive their happy moments and cope with their challenges, with the life journal as their faithful companion throughout their journey.
+
+## Problem Statement
+Emotion-based prompting: Train models to respond to prompts based on specific emotions. Imagine prompting with "Write a letter to your lost love, filled with longing and regret." This could lead to more emotionally resonant and engaging outputs
+
+## Related Repositories
+1. Frontend: https://github.com/manaslaud/intel-hack
+2. Backend: https://github.com/woaitsAryan/rekindle-backend
+3. Machine Learning: https://github.com/Yug-Oswal/BOLT-Hackathon/
 
 ## Models Trained/Fine-tuned/Utilised: 
 1. Gemma 2B served and run via Ollama
@@ -60,7 +75,7 @@ model = tf.keras.Model(inputs=input, outputs=output)
 ## Intel Technologies Utilised: 
 1. Intel Development Console (IDC): The IDC was the cornerstone of our project. It provided an easy-to-use interface and was where the entire project was deployed and hosted. The Intel VM provided us with low latencies on requests and much higher response times on LLM inference for the VM-hosted Gemma 2B model being used in the project.
 2. intel-tensorflow: The Intel Tensorflow library was used for three tasks: Training of custom Recurrent Neural models, Fine-tuning of Language Models, and Fine-tuning of Preprocessing-Encoder-Fully Connected-Output layer like models. The intel-tensorflow library proved to be very easy to access and use, and I had almost no hiccups after the initial setting up phase of the library. The library provides beautifully similar API functionality to that of the original tensorflow and comes as a part of the Intel AI toolkit. Additional similar libraries explored: Intel HPC, Intel Neural Compressor, Intel OpenVINO toolkit.
-3. modin (for pandas): We dissected and used the Google Go-Emotions Dataset consisted of approx. 210,000 texts and 28 emotion categories as labels for the same. Using modin for pandas provided once again, a very easy-to-switch-over API and boosted our data cleaning processes by significantly.
+3. modin (for pandas): We dissected and used the Google Go-Emotions Dataset consisting of approx. 210,000 texts and 28 emotion categories as labels for the same. Using modin for pandas provided once again, a very easy-to-switch-over API and boosted our data cleaning processes by significantly.
 4. sklearnex: Scikit-learn was used for scoring different metrics on the dataset and in data pre-processing. The intel extension on sklearn took very little to no effort to setup, hoewver, ended up providing an almost seamless speedup of performance during data cleaning.
 
 ## Resources: 
