@@ -65,6 +65,16 @@ output = Dense(28, activation='softmax')(x)
 model = tf.keras.Model(inputs=input, outputs=output)
 ```
 
+## Emotion Extraction Model Training: 
+1. We evaluated 3 models: Custom Model, BERT Fine-tuned/Retrained, DistilBERT Fine-tuned/Retrained
+2. The BERT model was used from a Google tutorial for the dataset and used as our benchmark. Our DistilBERT model achieved approx 80% train and 60% test accuracy. However, the accuracy cannot directly be interpreted as the precision of the model due to the following reason:
+3. The emotions dataset consisted of 28 emotions anad sometimes there can be an overlap between 2 emotions:
+4. Eg. I feel down because of a death. True Label: Sadness, Predicted Label: Grief
+5. Thus, a 60% test accuracy does not mean that the model is inaccurate 40% of the times. The model proves to be relatively accurate considering the context of the text a significantly higher number of times than what is shown via the test accuracy.
+6. Thus, to evaluate model performance, we compare it against the Google BERT model benchmark in different test cases.
+   
+#### Comparison: 
+
 ## Machine Learning Decisions: 
 1. Gemma 7B, Mistral 7B, Phi 2.7, GPT 3.5 Turbo, and Gemma 2B were the pre-trained LLMs which were locally hosted and run before the final model was selected. Inference times, low latencies, low frequencies of hallucinations, and high quality responses were the metrics used to determine the model.
 2. The Gemma 2B was chosen since other larger models (such as those with 7B params) proved to have larger inference times than expected. While the Gemma model served our purposed best since the target audience of our project lies in aged citizens. There are no expected multiple corrupted requests and unnecessarily long token length prompts from such an audience. Gemma 2B provides better response times (due to loading faster since it has smaller manifests), lower inference times (courtesy of it's smaller size - 2B params), and good quality responses, tested over some hand-curated stories which were prompted to the model.
@@ -80,3 +90,4 @@ model = tf.keras.Model(inputs=input, outputs=output)
 
 ## Resources: 
 1. Google Go-Emotions Dataset: https://blog.research.google/2021/10/goemotions-dataset-for-fine-grained.html - 210,000 texts from Reddit threads, Corpus of 58k words, 27 emotion categories + 1 neutral category
+2. Google Go-Emotions BERT Benchmark: https://responsible-ai-developers.googleblog.com/2022/11/goemotions-dataset-training-classifier.html
