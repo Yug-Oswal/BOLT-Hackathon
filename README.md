@@ -1,7 +1,7 @@
 # BOLT-Hackathon: Intel Track
 Update: This project was featured in Intel's Developer Spotlight.  
 Find it at: https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Emotion-based-AI-Prompts-to-Improve-Dementia-and-Alzheimer-s/post/1646138  
-Find Rekindle at: https://intel.aryanbharti.com    
+Find Rekindle at: https://intel.aryanbharti.com    (currently being refurbished, so not available; do let us know if you'd like to have a look :))
 A repository containing my team 4lie's Angels' projects and solutions under the BOLT Hackathon under the Intel track.
 
 ## Our Project - Rekindle 
